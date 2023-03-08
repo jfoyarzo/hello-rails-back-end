@@ -23,7 +23,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Rails Backend <a name="about-project"></a>
-**Hello Rails Backend** is an exercise created for the Microverse curriculum. It consists of a basic Rails API that has an endpoint that returns a random greeting from a previously set up database table in JSON format. You can find the front end built with React [here](https://github.com/jfoyarzo/hello-react-front-end).
+**Hello Rails Backend** is an exercise created for the Microverse curriculum. It consists of a basic Rails API that has an endpoint that returns a random greeting from a previously set-up database table in JSON format. You can find the front end built with React [here](https://github.com/jfoyarzo/hello-react-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -166,7 +166,7 @@ This is simply an exercise and future features will not be added.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jfoyarzo/hello-rails-react/issues/).
+Feel free to check the [issues page](https://github.com/jfoyarzo/hello-rails-back-end/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
